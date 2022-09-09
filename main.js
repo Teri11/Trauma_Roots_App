@@ -1,0 +1,1 @@
+// alert("Kindly Subscribe to our News Letter.");
