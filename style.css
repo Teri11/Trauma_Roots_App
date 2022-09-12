@@ -410,9 +410,7 @@ color: #fff;
   margin-right:10px;
 }
 
-.carousel{
-    
-}
+
 
 .row__carousel{
   display:inline-block;
@@ -664,19 +662,19 @@ filter: drop-shadow(0px 7px 4px rgba(0,0,0,.2));
 }
 
 .article-pre__img--first{
-   background-image: url(https://cdn.dribbble.com/users/18730/screenshots/2182635/newshot.png);
+   background-image: url(https://www.calmsage.com/wp-content/uploads/2022/09/What-is-Suicidal-Ideation-768x353.jpg);
 }
 
 .article-pre__img--second{
-  background-image: url(https://image.ibb.co/cYsvbw/dribbble.jpg);  
+  background-image: url(https://media.istockphoto.com/photos/shot-of-a-young-woman-suffering-from-a-headache-picture-id1276385699?b=1&k=20&m=1276385699&s=170667a&w=0&h=tngf4xfpR_DVB4AhTqPnk7RomIqQO296zsjm8PJniao=);  
 }
 
 .article-pre__img--third{
-  background-image: url(https://cdn.dribbble.com/users/103909/screenshots/3671664/sensors-01.jpg);  
+  background-image: url(https://images.unsplash.com/photo-1621887348744-6b0444f8a058?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fG1lbnRhbCUyMGhlYWx0aCUyMGFmcmljYW5zfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60);  
 }
 
 .article-pre__img--fourth{
-  background-image: url(https://cdn.dribbble.com/users/997070/screenshots/4120967/attachments/943230/01-1._Cover_Copy_2x.png);  
+  background-image: url(https://images.unsplash.com/photo-1575228937854-224dbf41c30d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTB8fHN1aWNpZGUlMjBhZnJpY2Fuc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);  
 }
 
 .article-pre:hover .article-pre__img {
